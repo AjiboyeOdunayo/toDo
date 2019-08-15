@@ -7,8 +7,8 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 text-align:left; */
-width: 50%;
-padding-left: 250px;
+width: 60%;
+padding-left: 390px;
 background-color: black;
 
 }
@@ -34,7 +34,7 @@ background-color: black;
 
 #the-input {
 
-	width: 250px;
+	width: 200px;
 	padding: 10px;
 	float: left;
 	font-size: 16px;
